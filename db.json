@@ -2,14 +2,14 @@
 {
   "listUsers": [
    {
-    "id": 1,
+    "id": "1",
     "name": "Dương Việt Anh",
     "phone": "0123456789",
     "permission": true,
     "address": "Ha Noi",
     "age": 12
   },{
-    "id": 2,
+    "id": "2",
     "name": "Dương Việt Anh2",
     "phone": "01234512789",
     "permission": false,
