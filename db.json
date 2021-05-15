@@ -5,12 +5,16 @@
     "id": 1,
     "name": "Dương Việt Anh",
     "phone": "0123456789",
-    "permission": "1"
+    "permission": true,
+    "address": "Ha Noi",
+    "age": 12
   },{
     "id": 2,
     "name": "Dương Việt Anh2",
     "phone": "01234512789",
-    "permission": "2"
+    "permission": false,
+    "address": "HCM",
+    "age": 22
   }
   ]
 }
